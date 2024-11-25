@@ -14,6 +14,10 @@ ul {
     text-align: center;
     list-style-position: inside;
     color: #8B5DFF;
+    font-family: "Parkinsans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
 }
 #thanks {
     color: #8B5DFF;
@@ -25,3 +29,6 @@ ul {
     font-weight: 800;
     font-style: normal;
   }
+#city {
+    border: 3px solid black;
+}
