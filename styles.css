@@ -1,16 +1,27 @@
 html {
-    background: black;
+background-color: #A594F9;
 }
 h1{
-    color: white;
 }
 .test {
-    color: aquamarine;
+    color: rgb(139, 93, 255);
 }
 .movie-title {
-    color: burlywood;
-
+    color: #CDC1FF; 
 }
 ul {
-    color: white;
+    align-items: center;
+    text-align: center;
+    list-style-position: inside;
+    color: #8B5DFF;
 }
+#thanks {
+    color: #8B5DFF;
+}
+.test{
+    text-align: center;
+    font-family: "Parkinsans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+  }
